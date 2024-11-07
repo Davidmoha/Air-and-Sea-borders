@@ -1,6 +1,6 @@
 # Aviation in Palestine
 
-This is part of the “[Sea-Border and Air-Space Formation in the Interwar Middle East: A Trans-Imperial Perspective]([[https://data.snf.ch/grants/grant/219698](https://data.snf.ch/grants/grant/219698)](https://data.snf.ch/grants/grant/219698))" project, supported by the Swiss National Science Foundation (SNF) under the Grant Agreement No. 219698.
+This is part of the “[Sea-Border and Air-Space Formation in the Interwar Middle East: A Trans-Imperial Perspective](https://data.snf.ch/grants/grant/219698)" project, supported by the Swiss National Science Foundation (SNF) under the Grant Agreement No. 219698.
 
 This project will map aviation lines running through Mandatory Palestine from 1920 to 1945. Using Geovis, QGIS, and a relational model, it collates all available information about civil and military aviation running through Palestine.
 
