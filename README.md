@@ -10,7 +10,7 @@ This project will map aviation lines running through Mandatory Palestine from 19
 
 **Third**, it tracks the way border control agencies intervened in, and sought to regulate, cross-border movement.
 
-Project carried out by David Motzafi-Haller, who is reachable at David.motzafi@unine.ch
+Project carried out by David Motzafi-Haller, with the collaboration of Professor Jordi Tejel and Mr. Carl Abi-Hanna.
 
 
 
