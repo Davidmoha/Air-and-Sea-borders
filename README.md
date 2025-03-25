@@ -1,20 +1,11 @@
-# Aviation in Palestine
+# Commercial travel in the greater Levant, 1920-1945.
 
 This is part of the “[Sea-Border and Air-Space Formation in the Interwar Middle East: A Trans-Imperial Perspective](https://data.snf.ch/grants/grant/219698)" project, supported by the Swiss National Science Foundation (SNF) under the Grant Agreement No. 219698.
 
-This project will map aviation lines running through Mandatory Palestine from 1920 to 1945. Using Geovis, QGIS, and a relational model, it collates all available information about civil and military aviation running through Palestine.
+This project uses underutilized archival sources to create a time-sensitive flowchart of patterns of civic travel and post services in the interwar middle east. Part one tracks the rise of civiil aviation in Mandatory Palestine. Using Geovis, QGIS, and a relational model, it collates all available information about the development of new airlines, airports and aerial transportation routes that  originated in, terminated in, or passed through British-controlled mandatory Palestine. **First**, it presents Palestine's role in facilitating imperial and regional aviation by mapping all landing grounds and airports in the territory and the aviation companies that made use of them. **Second**, it facilitates the intergration of aviation into the longer history of transportation in the region by superimposing airports and landing grounds with other types of transportation infrastructure, primarily sea ports, railways, and roads. **Third**, it tracks the way border control agencies intervened in, and sought to regulate, cross-border movement.
 
-**First**, it presents Palestine's role in facilitating imperial and regional aviation by mapping all landing grounds and airports in the territory and the aviation companies that made use of them. 
 
-**Second**, it facilitates the intergration of aviation into the longer history of transportation in the region by superimposing airports and landing grounds with other types of transportation infrastructure, primarily sea ports, railways, and roads. 
+Part two focuses on maritimes traffic in Beirut, the pearl of the Levant, during the same time frame. Using the same informatical softwares, it depicts how Beirut functioned as a de-facto capital of the interwar Levantine coast through the prism of maritime traffic. It uses ticket sales' reports of key maritime companies to answer key questions about the uses and accessibility of fossil-fuel maritime travel. Asking to what degree was maritmie travel evenly spread across classes, the part uses three main axes of analyses: class (as represnted in sales' figures for each class), season (as represented by the dates of travel) and destination (based on ticket holder's final destinations). Combinations of these three axes make it possible to ask key questions about mobility patterns and offer insight into who moved, where, and when. It should make it possible to identify the development of new patterns of consumption, of communciation, and of different forms of travel (business, leisure) and see how Beirut's rise translated into different material realities for different classes and for the elaboration of distinctive tastes and trends in consumerism amongst its residents.
 
-**Third**, it tracks the way border control agencies intervened in, and sought to regulate, cross-border movement.
 
 Project carried out by David Motzafi-Haller, with the collaboration of Professor Jordi Tejel and Mr. Carl Abi-Hanna.
-
-
-
-
-
-A second, later, stage of this project will make use of prosopographical tools to disaggregate aviation companies. It will seek information regarding aviation companies' employees, boardmembers, and stockholders, and use that material to facilitate a network model of actors involved in aviation in the region and complicate homogenizing national identifications of aviation companies as "british" or "egyptian" or "zionist" or "dutch" or "polish" or "italian". 
-
